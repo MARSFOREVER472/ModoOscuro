@@ -4,7 +4,7 @@
 
 ### **_Cómo crear Efecto Modo Oscuro Dark Mode con HTML/CSS/JAVASCRIPT._**
 
-- **_En este proyecto te voy a enseñar a cómo añadir Modo Oscuro en tu sitio web usando las herramientas en HTML, CSS y JavaScript._**
+- **_En este proyecto te voy a enseñar a cómo añadir el efecto Modo Oscuro en tu sitio web usando las herramientas en HTML, CSS y JavaScript._**
 - **_Usaremos el efecto toggle (activar/desactivar) para habilitar el modo oscuro en nuestra página web._**
 
 - **_Mediante el uso de cualquier botón (checkbox) podemos modificar una temática de la página del modo claro al modo oscuro._**
