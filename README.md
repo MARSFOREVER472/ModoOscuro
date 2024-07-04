@@ -10,5 +10,5 @@
 - **_Mediante el uso de un botón (checkbox) podemos modificar del modo claro al modo oscuro._**
 - **_Con un simple click se activa el modo nocturno (Dark mode), y si volvemos a hacer click en el botón se activa el modo diurno (Light mode)._**
 
-- **_Cómo crear modo nocturno dentro de una página web: Se trata de un efecto fácil de crear y que utiliza el atributo classList de Javascript para agregar o eliminar una clase en nuestra aplicación._**
+- **_Cómo crear modo nocturno dentro de una página web: Se trata de un efecto muy fácil de crear y que utiliza el atributo classList de Javascript para agregar o eliminar una clase en nuestra aplicación._**
 - **_Con este proyecto puedes ver todo el código realizado mediante archivos en HTML, CSS y JAVASCRIPT que necesitas para crear este tipo de efecto._**
