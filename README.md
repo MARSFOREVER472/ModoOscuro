@@ -7,7 +7,7 @@
 - **_In this project I am going to teach you how to add the effect called "Dark Mode" to your website using tools through HTML, CSS and JavaScript files._**
 - **_We will use the toggle effect to enable dark mode on our website._**
 - **_By using any button (checkbox) we can modify a page theme from light mode to dark mode._**
-- With a simple click the night mode (Dark mode) is activated, and if we click on the button again the day mode (Light mode) is activated.
+- **_With a simple click the night mode (Dark mode) is activated, and if we click on the button again the day mode (Light mode) is activated._**
 
 ## 💥🚀 **_CÓMO HACER MODO OSCURO EN JAVASCRIPT_** 💥 
 
