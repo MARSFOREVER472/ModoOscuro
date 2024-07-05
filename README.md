@@ -5,7 +5,7 @@
 ### **_How to create Dark Mode Effect Dark Mode with HTML/CSS/JAVASCRIPT._**
 
 - **_In this project I am going to teach you how to add the effect called "Dark Mode" to your website using tools through HTML, CSS and JavaScript files._**
-- _We will use the toggle effect to enable dark mode on our website._
+- **_We will use the toggle effect to enable dark mode on our website._**
 
 ## 💥🚀 **_CÓMO HACER MODO OSCURO EN JAVASCRIPT_** 💥 
 
