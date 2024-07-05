@@ -1,6 +1,6 @@
 # ModoOscuro
 
-**_HOW TO MAKE DARK MODE IN JAVASCRIPT_**
+💥🚀 **_HOW TO MAKE DARK MODE IN JAVASCRIPT_** 💥
 
 ## 💥🚀 **_CÓMO HACER MODO OSCURO EN JAVASCRIPT_** 💥 
 
