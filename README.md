@@ -9,6 +9,7 @@
 - **_By using any button (checkbox) we can modify a page theme from light mode to dark mode._**
 - **_With a simple click the night mode (Dark mode) is activated, and if we click on the button again the day mode (Light mode) is activated._**
 - **_How to create night mode within a web page: This is a very simple effect to create that uses the Javascript classList attribute to add or remove a class in our application._**
+- With this project you can see all the code made using HTML, CSS and JAVASCRIPT files that you need to create this type of effect.
 
 ## 💥🚀 **_CÓMO HACER MODO OSCURO EN JAVASCRIPT_** 💥 
 
